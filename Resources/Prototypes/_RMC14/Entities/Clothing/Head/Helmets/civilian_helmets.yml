@@ -23,6 +23,8 @@
     # armor_energy = 20
     # armor_rad = 10
     # armor_internaldamage = 25
+    coverage:
+    - Head
 
 - type: entity
   parent: RMCArmorHelmetFirefighter

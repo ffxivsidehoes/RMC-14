@@ -15,6 +15,8 @@
     # armor_laser = 10
     # armor_energy = 10
     # armor_internaldamage = 25
+    coverage:
+    - Head
   - type: CMHardArmor
 
 - type: entity
@@ -48,3 +50,5 @@
     # armor_laser = 10
     # armor_energy = 10
     # armor_internaldamage = 20
+    coverage:
+    - Head

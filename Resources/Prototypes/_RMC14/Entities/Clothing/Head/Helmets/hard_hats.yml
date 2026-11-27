@@ -28,6 +28,8 @@
     # armor_energy = 10
     # armor_rad = 10
     # armor_internaldamage = 20
+    coverage:
+    - Head
   - type: CMHardArmor
   - type: Appearance
   - type: ItemTogglePointLight

@@ -16,6 +16,7 @@
     bio: 10
     explosionArmor: 25
     # armor_energy = 30
+    # armor_internaldamage: 20
   - type: RMCEarProtection
 
 - type: entity

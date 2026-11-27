@@ -911,6 +911,15 @@
     - HeadTop
     - HeadSide
     - Snout
+  - type: CMArmor
+    melee: 20
+    bullet: 20
+    bio: 30
+    explosionArmor: 10
+    # armor_rad = 50
+    # armor_internaldamage = 10
+    coverage:
+    - Head
 
 - type: entity
   parent: RMCHeadRadiationHood

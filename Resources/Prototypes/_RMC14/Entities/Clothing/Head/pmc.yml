@@ -276,6 +276,9 @@
   - type: EyeProtection
   - type: PointLight
     color: "#c51ce4"
+  - type: CMArmor
+    bullet: 15
+    # armor_internaldamage = 20
 
 - type: entity
   parent: CMHeadCap
@@ -325,6 +328,14 @@
     sprite: _RMC14/Objects/Clothing/Head/PMC/hybrisa_cap.rsi
   - type: ItemCamouflage
     camouflageVariations: { }
+  - type: CMArmor
+    melee: 15
+    bullet: 15
+    bio: 10
+    explosionArmor: 15
+    # armor_internaldamage = 15
+    coverage:
+    - Head
 
 - type: entity
   parent: ArmorHelmetPMCCorporate

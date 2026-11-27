@@ -185,6 +185,10 @@
       Snow: _RMC14/Objects/Clothing/Head/Helmets/m50/snow.rsi
       Classic: _RMC14/Objects/Clothing/Head/Helmets/m50/classic.rsi
       Urban: _RMC14/Objects/Clothing/Head/Helmets/m50/urban.rsi
+  - type: CMArmor
+    melee: 15
+    explosionArmor: 25
+    # armor_internaldamage = 15
 
 - type: entity
   parent: ArmorHelmetM10

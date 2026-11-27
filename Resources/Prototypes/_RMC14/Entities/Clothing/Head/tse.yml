@@ -40,6 +40,14 @@
     sprite: _RMC14/Objects/Clothing/Head/TSE/tsepa_cap_peaked.rsi
   - type: Clothing
     sprite: _RMC14/Objects/Clothing/Head/TSE/tsepa_cap_peaked.rsi
+  - type: CMArmor
+    melee: 15
+    bullet: 15
+    bio: 10
+    explosionArmor: 15
+    # armor_internaldamage = 15
+    coverage:
+    - Head
 
 - type: entity
   parent: RMCHeadCapTSEPAPeaked

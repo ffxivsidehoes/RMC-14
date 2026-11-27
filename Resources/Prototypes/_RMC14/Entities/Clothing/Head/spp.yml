@@ -128,6 +128,14 @@
     sprite: _RMC14/Objects/Clothing/Head/SPP/cap.rsi
   - type: Clothing
     sprite: _RMC14/Objects/Clothing/Head/SPP/cap.rsi
+  - type: CMArmor
+    melee: 25
+    bullet: 25
+    bio: 20
+    explosionArmor: 10
+    # armor_internaldamage 20
+    coverage:
+    - Head
 
 - type: entity
   parent: CMHeadCapSPP
